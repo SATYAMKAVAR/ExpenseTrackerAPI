@@ -323,6 +323,9 @@ __pycache__/
 # Tabs Studio
 *.tss
 
+# Ignore appsettings.json files
+appsettings.json
+
 # Telerik's JustMock configuration file
 *.jmconfig
 
