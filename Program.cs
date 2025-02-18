@@ -6,7 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using ExpenseTrackerAPI.Services;
 using Microsoft.OpenApi.Models;
-
+  
 var builder = WebApplication.CreateBuilder(args);
 
 // Load Configuration
